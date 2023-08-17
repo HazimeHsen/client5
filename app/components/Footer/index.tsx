@@ -30,7 +30,7 @@ const socialLinks: Social[] = [
 
 const footer = () => {
   return (
-    <div className=" relative">
+    <div className=" ">
       <div className="radial-bg hidden lg:block"></div>
       <div className="mx-auto max-w-2xl px-4 sm:px-6 lg:max-w-7xl lg:px-8">
         <div className="">

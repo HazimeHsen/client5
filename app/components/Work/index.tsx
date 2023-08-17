@@ -42,7 +42,7 @@ const SwimWork = () => {
       <div className="mx-auto max-w-7xl px-6 mb-20 relative">
         <div className="text-center mb-10">
           <h3 className="text-offwhite text-3xl md:text-5xl font-bold mb-3">
-            Swim Services
+            Services
           </h3>
           <p className="md:text-lg font-normal leading-8">
             Dive into a world of swimming excellence with our personalized swim

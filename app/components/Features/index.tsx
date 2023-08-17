@@ -27,7 +27,7 @@ const featuresdata: featuresdata[] = [
 const Features = () => {
   return (
     <div
-      className="mx-auto max-w-7xl my-0 md:my-40 px-6 relative"
+      className="mx-auto z-10 max-w-7xl my-0 md:my-40 px-6 "
       id="blogs-section">
       <div className="gap-4">
         {/* Column-1 */}

@@ -164,7 +164,7 @@ html:not([data-scroll="0"]) .navbar {
   top: 57%;
   left: 0%;
   width: 9%;
-  height: 100%;
+  height: 100px;
   background-repeat: no-repeat;
   z-index: -1;
 }
@@ -175,7 +175,7 @@ html:not([data-scroll="0"]) .navbar {
   top: 15%;
   left: 5%;
   width: 9%;
-  height: 100%;
+  height: 100px;
   background-repeat: no-repeat;
   z-index: -1;
 }
@@ -186,7 +186,7 @@ html:not([data-scroll="0"]) .navbar {
   top: 80%;
   left: 8%;
   width: 9%;
-  height: 100%;
+  height: 100px;
   background-repeat: no-repeat;
   z-index: -1;
 }
@@ -197,7 +197,7 @@ html:not([data-scroll="0"]) .navbar {
   top: 32%;
   left: 21%;
   width: 9%;
-  height: 100%;
+  height: 100px;
   background-repeat: no-repeat;
   z-index: -1;
 }
@@ -208,7 +208,7 @@ html:not([data-scroll="0"]) .navbar {
   top: 84%;
   left: 33%;
   width: 9%;
-  height: 100%;
+  height: 100px;
   background-repeat: no-repeat;
   z-index: -1;
 }
@@ -219,7 +219,7 @@ html:not([data-scroll="0"]) .navbar {
   top: 79%;
   left: 63%;
   width: 9%;
-  height: 100%;
+  height: 100px;
   background-repeat: no-repeat;
   z-index: -1;
 }
@@ -230,7 +230,7 @@ html:not([data-scroll="0"]) .navbar {
   top: 47%;
   left: 70%;
   width: 9%;
-  height: 100%;
+  height: 100px;
   background-repeat: no-repeat;
   z-index: -1;
 }
@@ -241,7 +241,7 @@ html:not([data-scroll="0"]) .navbar {
   top: 70%;
   left: 78%;
   width: 9%;
-  height: 100%;
+  height: 100px;
   background-repeat: no-repeat;
   z-index: -1;
 }
@@ -252,7 +252,7 @@ html:not([data-scroll="0"]) .navbar {
   top: 26%;
   left: 82%;
   width: 9%;
-  height: 100%;
+  height: 100px;
   background-repeat: no-repeat;
   z-index: -1;
 }
@@ -263,7 +263,7 @@ html:not([data-scroll="0"]) .navbar {
   top: 50%;
   right: 0%;
   width: 4%;
-  height: 100%;
+  height: 100px;
   background-repeat: no-repeat;
   z-index: -1;
 }
